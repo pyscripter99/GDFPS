@@ -13,5 +13,6 @@ config_version=5
 config/name="GDFPS"
 config/description="A free and open source FPS game"
 config/version="1.0.0"
+run/main_scene="res://node_3d.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
